@@ -14,7 +14,7 @@
 const konark = {
     pronouns: "He" | "Him",
     code: ["Javascript", "C++", "Python", "PHP"],
-    askMeAbout: ["Web Dev", "Tech", "App dev", "Photography"],
+    askMeAbout: ["React", "Web Dev", "Tech", "App dev", "Photography"],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
@@ -31,17 +31,18 @@ const konark = {
 
 #### <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVxNDF2aHJ5ZXBvNDB3eWVvOXUwZ3JpMjM3MjUxNm1hZHNrbmEycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xuZFZEn1xApFPUuN83/giphy.gif" width="30"> Achievements:
 <hr width="15%" >
-* Member of the winning team at TOYCATHON 2021 (Track 2).
-* Consolation Prize in Technovation Hackathon 3, 2021.
+* Member of the winning team at TOYCATHON 2021 (Track 2).<br>
+* Consolation Prize in Technovation Hackathon 3, 2021.<br>
 * Top 30 winner in IBM Hackathon 2020.
 
 #### <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHY2a2RwOGltdzI1d2Z0b2lndHB5Y2tmeGF1cDBiZGkxazZtdmlwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7ncuv8gbvEGKBfbuf2/giphy.gif" width="30"> Research Papers and Publications: 
 <hr width="30%" >
-[Digital Yoga Game with Enhanced Pose Grading Model," ICCSEA, IEEE, 2022](https://ieeexplore.ieee.org/abstract/document/9936591)
 
-["AI-based Yoga Trainer," INCET, IEEE, 2022.](https://ieeexplore.ieee.org/abstract/document/9824332)
+[Digital Yoga Game with Enhanced Pose Grading Model," ICCSEA, IEEE, 2022.](https://ieeexplore.ieee.org/abstract/document/9936591)
 
-["Evolution of Technology towards Green IT," ICCCIS, IEEE, 2021.](https://ieeexplore.ieee.org/abstract/document/9397173)
+[AI-based Yoga Trainer, INCET, IEEE, 2022.](https://ieeexplore.ieee.org/abstract/document/9824332)
+
+[Evolution of Technology towards Green IT, ICCCIS, IEEE, 2021.](https://ieeexplore.ieee.org/abstract/document/9397173)
 
 #### <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXA0cW56cmhqMGlyMjJqeGY5OWNrZ3I1eHFrMWNoZ2xjaGZ1c3lxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/QFFltfwaDrj8ATWBcn/giphy.gif" width="30"> Patent:
 <hr width="10%" >
