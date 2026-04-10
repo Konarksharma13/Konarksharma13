@@ -10,7 +10,7 @@
 const konark = {
     pronouns: "He" | "Him",
     code: ["Javascript", "C++", "Python", "PHP"],
-    askMeAbout: ["React", "Web Dev", "Tech", "App dev", "Photography"],
+    askMeAbout: ["React", "Web Dev", "Tech", "App dev", "Photography", "Writer"],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
