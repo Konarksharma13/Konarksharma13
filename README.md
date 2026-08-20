@@ -16,6 +16,7 @@
 | ✨ **[GlassCpp](https://github.com/Konarksharma13/GlassCpp)** | ...developer documentation looked as modern as the code we write? |
 | 🍔 **[BiteMatch](https://github.com/Konarksharma13/BiteMatch)** | ...finding food was as fun as swiping? |
 | 🦸 **[The Seven](https://github.com/Konarksharma13/The-Seven)** | ...Vought International had a real corporate website? |
+| 🎮 **[Foodwars](https://github.com/Konarksharma13/Foodwars)** | ...choosing dinner felt like the Pokémon League Finals? |
 
 <p align="center">
   <a href="https://github.com/Konarksharma13?tab=repositories"><b>→ Explore all my repositories</b></a>
